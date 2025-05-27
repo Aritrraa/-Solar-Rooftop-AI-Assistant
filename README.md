@@ -95,7 +95,7 @@ A homeowner uploads an image of their rooftop to estimate solar energy productio
 ![Sample Output Screenshot](solarproject2.png)
 ![Sample Output Screenshot](solarproject3.png)
 
-```json
+
 {
   "usable_area_m2": " 33.93 m²",
   "num_panels": "21 panels",
@@ -105,7 +105,8 @@ A homeowner uploads an image of their rooftop to estimate solar energy productio
   "savings_per_year_usd": "$1415.29",
   "roi_years": "2.42 years"
 }
----
+
+
 
 **Interpretation:**  
 - The user can install about 21 solar panels.  
