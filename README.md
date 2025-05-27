@@ -154,6 +154,9 @@ A homeowner uploads an image of their rooftop to estimate solar energy productio
 ## 📧 Contact
 
 Developed by: Aritra Das
+
 GitHub: https://github.com/aritrraa 
+
 Email: aritradas405@gamil.com
+
 ---
