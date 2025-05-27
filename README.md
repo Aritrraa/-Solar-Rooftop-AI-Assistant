@@ -30,7 +30,6 @@ python app.py
 ```
 
 **Notes:**  
-- The app runs a local Flask server, usually at http://127.0.0.1:5000/.  
 - Supported image formats: `.jpg`, `.png`.  
 - For any issues, check Python version and installed packages.
 
