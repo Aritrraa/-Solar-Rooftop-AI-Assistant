@@ -96,15 +96,6 @@ A homeowner uploads an image of their rooftop to estimate solar energy productio
 ![Sample Output Screenshot](solarproject3.png)
 
 
-{
-  "usable_area_m2": " 33.93 m²",
-  "num_panels": "21 panels",
-  "kw_installed": "6.3 kW",
-  "annual_output_kwh": "10405.83 kWh",
-  "estimated_cost_usd": "$3428.94",
-  "savings_per_year_usd": "$1415.29",
-  "roi_years": "2.42 years"
-}
 
 
 
