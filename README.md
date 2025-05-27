@@ -80,7 +80,7 @@ The Solar Rooftop Analyzer simulates analyzing a rooftop image to estimate solar
 
 ---
 
-## 💡 Example Use Cases
+
 
 ## 💡 Example Use Cases
 
@@ -91,9 +91,9 @@ A homeowner uploads an image of their rooftop to estimate solar energy productio
 
 **Sample Output:**
 
-![Sample Output Screenshot](images/solarproject1.png)
-![Sample Output Screenshot](images/solarproject2.png)
-![Sample Output Screenshot](images/solarproject3.png)
+![Sample Output Screenshot](solarproject1.png)
+![Sample Output Screenshot](solarproject2.png)
+![Sample Output Screenshot](solarproject3.png)
 
 ```json
 {
